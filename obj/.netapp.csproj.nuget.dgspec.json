@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kiran\\azure\\.netapp\\.netapp.csproj": {}
+    "D:\\Kiran\\azure\\learningKiran\\.netapp.csproj": {}
   },
   "projects": {
-    "D:\\Kiran\\azure\\.netapp\\.netapp.csproj": {
+    "D:\\Kiran\\azure\\learningKiran\\.netapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kiran\\azure\\.netapp\\.netapp.csproj",
+        "projectUniqueName": "D:\\Kiran\\azure\\learningKiran\\.netapp.csproj",
         "projectName": ".netapp",
-        "projectPath": "D:\\Kiran\\azure\\.netapp\\.netapp.csproj",
+        "projectPath": "D:\\Kiran\\azure\\learningKiran\\.netapp.csproj",
         "packagesPath": "C:\\Users\\SREEKANTH\\.nuget\\packages\\",
-        "outputPath": "D:\\Kiran\\azure\\.netapp\\obj\\",
+        "outputPath": "D:\\Kiran\\azure\\learningKiran\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SREEKANTH\\AppData\\Roaming\\NuGet\\NuGet.Config"
